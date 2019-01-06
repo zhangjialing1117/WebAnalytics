@@ -1,0 +1,32 @@
+Web analytics/User Behavior:
+
+Product: Website/App
+
+Goal: 
+understand user experience on the product, 
+optimize web usage, 
+improve the effectiveness of a website, 
+broadcast advertising campaigns, 
+stickness of customers,
+generate clicks,
+get profit
+      
+Metrics: 
+user value define
+
+Data collection: (Data Engineer)
+Logfile analysis (large size, redundancy, extract needed logs (e.g. advertising/marketing campaign), include page tagging),
+Page tagging (straight forward, website/app 1*1 pixel: javascript code, users/cookies information), 埋点tagging
+          
+Process:
+Data Collection: counts, website access timestamp, referral URL (google search, marketing campaign), Query terms
+Processing of data into information: time on page, bounce rate, unique visitors
+Develop KPI (key performance indicators): conversion rate, average order value, task completion rate 
+                  -> Draw insight, improve user experience
+                  -> improve KPI
+Formulating online strategy: save money, make money, marketshare
+
+KPI/metrics:
+1. Ecommerce:
+2. Mobile apps:
+3. 
