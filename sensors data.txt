@@ -1,4 +1,4 @@
-Sensors Data: https://www.sensorsdata.cn/, acquire more customer, gain profit
+Sensors Data: https://www.sensorsdata.cn/, customer acquisition, gain profit
 similar to Google analytics, analyzing site's traffic, and understand user behaviors
 
 Goal:
@@ -8,3 +8,32 @@ Goal:
 4. Build ML models to predict user behaviours (features), e.g. signup, churn
 5. Discover interesting insights, improve signup rate
 6. Propose hypothesis for company to set up experiments for testing
+
+Raw Data:
+id, web browser, pc/mobile, refer url (campaign), utm 5 parameters (campaign), session_page,
+ip, first_visit, 
+utm: url parameter, https://en.wikipedia.org/wiki/UTM_parameters
+
+generate features (e.g. referral), feature combination (top 5 referals-> cover 80% info)
+
+Data Process:
+Different event types:
+    1. page visit:
+    2. page leave:
+    3. button click:
+    4. submit: formSubmit, ...
+       可做response variable, boost probability of cost label
+Transform from event based log -> user based data (features) (FEATURE ENGINEERING)
+    1. use Boolean/Count to indicate whether or how many times user has certain event
+    2. event related attributes (time, intervals, transformation) as seperate features
+  
+Data Exploration: 
+User activity by day of week:
+  weekday vs weekend
+  dataset span
+  worktime (8am to 5pm)
+Funnel Analysis:
+  drop from page view
+  sharp drop
+  
+
