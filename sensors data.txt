@@ -1,0 +1,6 @@
+Sensors Data: https://www.sensorsdata.cn/
+similar to Google analytics, analyzing site's traffic, and understand user behaviors
+
+Goal:
+1. Clean dirty log data and transform it for analytics
+2. 
