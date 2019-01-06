@@ -45,6 +45,29 @@ metrics search: https://www.geckoboard.com/learn/kpi-examples/
 
 面试
 1. Metric Design: 
-evaluate new product -> know & familiar with the product first (app, product) e.g. 脸书
-2. 
+Evaluate new product -> know & familiar with the product first (app, product) e.g. 脸书
+
+2. The volume of users increased (traffic), but the total number of conversions has decrease
+(intuition, understand of the product)
+      1). Investage the user journey - often landing on particular pages, and then failing to convert
+            high bounce rate -> redesign the page
+            prevent bouncing off -> include internal links (attract user)
+      2). Check conversion funnel to identify the problem
+            conversion funnel: (could be including steps) 
+            start from front page, put stuff in cart, read recommendation items, read customer reviews, find best sellers, etc. see step percentage and drops
+            redesigning the goal flow -> less fields on a submission form/ fewer steps altogether
+      3). Utilize your most popular pages as a medium to increase conversions
+       
+Conversion Rate: the percentage of users who take a desired action. archetypical example: the percentage of website visitors who buy something on the site. Conversions don't have to be sales but can be any key performance indicator (KPI) that matters for your business.
+https://www.nngroup.com/articles/conversion-rates/
+
+Bounce Rate: the percentage of visitors to a particular website who navigate away from the site after viewing only one page.
+https://support.google.com/analytics/answer/1009409?hl=en
+
+Conversion funnel: a phrase used in e-commerce to describe the journey a consumer takes through an Internet advertising or search system, navigating an e-commerce website and finally converting to a sale. 
+https://en.wikipedia.org/wiki/Conversion_funnel
+
+
+
+
 
