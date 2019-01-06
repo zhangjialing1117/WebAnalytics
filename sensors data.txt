@@ -1,6 +1,10 @@
-Sensors Data: https://www.sensorsdata.cn/
+Sensors Data: https://www.sensorsdata.cn/, acquire more customer, gain profit
 similar to Google analytics, analyzing site's traffic, and understand user behaviors
 
 Goal:
 1. Clean dirty log data and transform it for analytics
-2. 
+2. EDA: user activity levels for different events, user interaction with web components
+3. Metric: conversion rate of users, identify key factors that bottleneck the conversion rate
+4. Build ML models to predict user behaviours (features), e.g. signup, churn
+5. Discover interesting insights, improve signup rate
+6. Propose hypothesis for company to set up experiments for testing
