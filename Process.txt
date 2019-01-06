@@ -1,4 +1,4 @@
-Web analytics/User Behavior:
+Web analytics/User Behavior analytics:
 
 Product: Website/App
 
@@ -27,6 +27,24 @@ Develop KPI (key performance indicators): conversion rate, average order value, 
 Formulating online strategy: save money, make money, marketshare
 
 KPI/metrics:
+metrics search: https://www.geckoboard.com/learn/kpi-examples/
 1. Ecommerce:
+      average order value
+      customer acquisition cost (e.g. marketing campaign spend)
+      gross profit margin 
+      percent returning customers
+      revenue by traffic source (e.g. gmail, google, youtube)
+      shopping cart abandonment rate (how to improve: drop the price, send email, user group interview)
+      
 2. Mobile apps:
-3. 
+      App ranking
+      Average revenue per user
+      cost per install
+      retention rate
+      session length
+
+面试
+1. Metric Design: 
+evaluate new product -> know & familiar with the product first (app, product) e.g. 脸书
+2. 
+
