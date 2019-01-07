@@ -26,6 +26,7 @@ Different event types:
 Transform from event based log -> user based data (features) (FEATURE ENGINEERING)
     1. use Boolean/Count to indicate whether or how many times user has certain event
     2. event related attributes (time, intervals, transformation) as seperate features
+    3. treat chinese characters as a new level or NLP or library
   
 Data Exploration: 
 User activity by day of week:
