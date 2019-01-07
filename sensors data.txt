@@ -29,12 +29,46 @@ Transform from event based log -> user based data (features) (FEATURE ENGINEERIN
   
 Data Exploration: 
 User activity by day of week:
-  weekday vs weekend
+  weekday vs weekend pattern
   dataset span
-  worktime (8am to 5pm)
+  worktime (8am to 5pm) more easy to register
 Funnel Analysis:
-  drop from page view
-  sharp drop
-  
+  drop from page view (could use A/B test verify)
+    page not interest?
+    improve page quality
+  sharp drop (check conversion rate drop at which step)
+Compare user behavior in/out China
+    IP address to identify
+UTM analysis (Source, Medium, Value, Campaign, Content)
+    tracking, marketing campaign
+    attract/target specific group of people
+    
+Data Transformation:
+Feature processing:
+    collapse categorical
+    log transformation for too wide numerica features: page stay time
+    missing value: <80%, mean/median
+Feature selection:
+    correlation, multicollinearity (if use Regression, need regularization), no need for tree-based
+    tree-based, feature importance plot
+
+Model Fitting: 
+    many options
+    Logistic Regrrssion: auc, roc, feature importance -> draw insight
+    ...
+    
+Understand model output:
+    Negative Coefficient
+    Positive Coefficient
+    Insignificant Coefficient
+
+What can the business learn?
+Funnel Analysis
+Product promotion or strategic campaign have no significant impact (Campaign Effectiveness)
+    e.g.: T test on: refer from A (conversion rate) vs refer from B (conversion rate)
+Suggestion on sign up rate improvement:
+    model insight 
+    hypothesis: coefficient ~ response
+    need company to test on the hypothesis
   
 
